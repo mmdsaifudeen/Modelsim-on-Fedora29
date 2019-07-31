@@ -46,6 +46,7 @@ Copy Compiled freetype library to {{altera/13.1/modelsim_ase/lib32}} folder."lib
 -Rename <<<<   vco="linux_rh60"    >>>>>>>>  in the line 210 of <vsim> file to  <<<<<<<    vco="linux"  >>>>>.
 
 -Below line 50 dir=`dirname "$arg0"`, add  
+
                                               export LD_LIBRARY_PATH=${dir}/lib
                                               
                                               
