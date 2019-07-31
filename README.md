@@ -9,9 +9,11 @@ Follow below steps for the updations!!
 ///////////////Downgrading fontconfig initially////////////////////////
 
 rpm -e --nodeps fontconfig.i686
+
 rpm -e --nodeps fontconfig.x86_64
 
 rpm -i fontconfig-2.13.0-3.fc28.x86_64.rpm
+
 rpm -i fontconfig-2.13.0-3.fc28.i686.rpm
 
 
