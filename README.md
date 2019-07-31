@@ -23,7 +23,7 @@ rpm -i fontconfig-2.13.0-3.fc28.i686.rpm
 ////////////////////////////////  Downgrading libfreetype  ////////////////////////////////////////////////////
 
 
-++++++++++++++++Use compiled libraries or Compile yourself++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++ Use compiled libraries or Compile yourself   ++++++++++++++++++++++++++++++++++++++++++++
 
 
 
